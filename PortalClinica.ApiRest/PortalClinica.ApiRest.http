@@ -1,0 +1,6 @@
+@PortalClinica.ApiRest_HostAddress = http://localhost:5036
+
+GET {{PortalClinica.ApiRest_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
